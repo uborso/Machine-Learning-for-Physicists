@@ -1,6 +1,10 @@
 # Machine Learning for Physicists
 Repository containing the projects for the Machine Learning for Physicists course offered at University College London (UCL) in 2021 Term 1, by Prof. Ryan Nichol
 
+### Note on Jupyter Notebooks
+
+In this repository, the Jupyter notebooks contain a mix of template code and my own contributions. A significant portion of the code within these notebooks was provided as part of a template solution, designed to guide and structure the implementation process. My contribution primarily involves adding and integrating my own code into these templates. 
+
 ## Week 1: Curve Fitting
 
 <img align="right" height="140" src="Images/week1.png"></img>
