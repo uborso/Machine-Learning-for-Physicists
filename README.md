@@ -49,7 +49,7 @@ The project involves creating autoencoder networks, each network will be trained
 The project involves developing neural networks for classifying MNIST handwritten digits, with a focus on exploring different configurations of convolutional layers.
 <br/><br/>
 
-## Week 5: Noisy Classification of MNIST Dataset
+## Week 5: Principal Component Analysis
 
 <img align="right" height="140" src="Images/week5.png"></img>
 The task entails the classification of MNIST images utilizing Convolutional Neural Networks (CNNs) combined with Principal Component Analysis (PCA). The objective is to analyze how the performance of the network varies in relation to the number of principal components (PCs) employed in the analysis.
@@ -57,7 +57,7 @@ The task entails the classification of MNIST images utilizing Convolutional Neur
 
 <br/><br/>
 
-## Week 6: Noisy Classification of MNIST Dataset
+## Week 6: Double Pendulum
 
 <img align="right" height="140" src="Images/week6.png"></img>
 In this notebook, the focus is on predicting a system's behavior with incomplete information. The approach involves setting up the equations of motion for a simple double pendulum. The intriguing aspect of this exercise is to explore whether a machine learning technique can accurately predict the future position of the lower mass by exclusively using data from the lower mass's past positions. This challenge tests the predictive capabilities of machine learning models and delves into the dynamics of physical systems with limited data inputs.
